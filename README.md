@@ -88,11 +88,11 @@ result tables contain links to corresponding result pages.
 
 
 #### Credits:
-instruction: http://yellowstone.cs.ucla.edu/cs143/project/project1B.html
-html/css tutorial: https://www.w3schools.com/
-mysql documentation: https://dev.mysql.com/doc/
-php documentation: http://php.net/docs.php
-demo video's size is reduced using: http://www.videosmaller.com/
+instruction: http://yellowstone.cs.ucla.edu/cs143/project/project1B.html  
+html/css tutorial: https://www.w3schools.com/  
+mysql documentation: https://dev.mysql.com/doc/  
+php documentation: http://php.net/docs.php  
+demo video's size is reduced using: http://www.videosmaller.com/  
 
 
 ##### How to access:
