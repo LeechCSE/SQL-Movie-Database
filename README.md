@@ -6,7 +6,7 @@ Winter 2019
 #### Included files:
 +- sql
    + create.sql: revised sql script that creats tables with constraints
-   + load.sql: sql script that loads data into the tables
+   + load.sql: sql script that loads data into the tables  
 +- www
    + index.php: general search
    + AddActorDirector.php: add actor/director
