@@ -3,7 +3,7 @@ SQL: movie database
 CS 143: Data Management System  
 Winter 2019  
   
-##Included files:
+#### Included files:
 +- sql
    + create.sql: revised sql script that creats tables with constraints
    + load.sql: sql script that loads data into the tables
@@ -25,7 +25,7 @@ Winter 2019
    + styles.css: css style file  
   
 
-##Implementaion/Features:
+#### Implementaion/Features:
 + Page I1: "Add a New Actor/Director"
   This page allows the user to add a new actor or director.
   Inputs:
@@ -81,13 +81,13 @@ Winter 2019
   This page shows all movies' information made by given company.
   End Point
 
-** NOTE **
+** NOTE **  
 "End Point" means that the result tables don't contains links and that they are
 "read-only/non-queryable" pages. On the other hand, all the non-Extra pages'
 result tables contain links to corresponding result pages.
 
 
-##Credits:
+#### Credits:
 instruction: http://yellowstone.cs.ucla.edu/cs143/project/project1B.html
 html/css tutorial: https://www.w3schools.com/
 mysql documentation: https://dev.mysql.com/doc/
@@ -95,5 +95,5 @@ php documentation: http://php.net/docs.php
 demo video's size is reduced using: http://www.videosmaller.com/
 
 
-How to access:
+##### How to access:
 http://localhost:1438/~cs143/
